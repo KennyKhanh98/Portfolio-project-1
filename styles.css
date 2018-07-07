@@ -81,7 +81,7 @@ header .profile-image:hover {
 }
 
 div .extra {
-  
+
 }
 .tag {
   background-color: #efefef;
@@ -184,9 +184,13 @@ a.linkedin {
 a.github {
   background-image: url(images/github.svg);
 }
+a.email {
+  background-image: url(images/email.svg);
+}
 a.social:hover {
   opacity: 1;
 }
+
 .clearfix {
   clear: both;
 }
